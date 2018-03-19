@@ -3,8 +3,10 @@ title: 使用Tomcat发布Web项目
 tags:
   - Java
   - tomcat
-  - 项目发布
+  - 环境搭建
 date: 2018-01-27 16:02:41
+comments: true
+categories: 环境搭建
 ---
 
 

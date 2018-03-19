@@ -60,3 +60,6 @@ date: 2016-07-20 22:43:47
   {% endplantuml %}
 
 - plantuml语法说明：http://plantuml.com/sequence.html#Basic_examples
+
+## ditto 剪切板历史管理
+*ditto* : Windows下管理剪切板历史的小而强大的工具([官网](http://ditto-cp.sourceforge.net/))；
